@@ -1,8 +1,31 @@
 # Notes to (NUS) Computer Science Freshmen, From The Future 
 
+- [Notes to (NUS) Computer Science Freshmen, From The Future](#notes-to-nus-computer-science-freshmen-from-the-future)
+  - [Intro](#intro)
+  - [Links](#links)
+  - [Internships](#internships)
+    - [Advice](#advice)
+    - [Sources](#sources)
+  - [Timeline of Opportunities for 2020/21](#timeline-of-opportunities-for-202021)
+  - [Computer scientists or Programmers that you should know](#computer-scientists-or-programmers-that-you-should-know)
+  - [(Informal) Checklists](#informal-checklists)
+  - [Introductions to various specializations](#introductions-to-various-specializations)
+    - [Graduate School](#graduate-school)
+    - [Programming Languages](#programming-languages)
+    - [Game Programming](#game-programming)
+    - [Learning Unix](#learning-unix)
+  - [Learning Stuff](#learning-stuff)
+  - [Good/Interesting Courses in SoC](#goodinteresting-courses-in-soc)
+  - [Famous Books](#famous-books)
+    - [List of free programming ebooks -](#list-of-free-programming-ebooks--)
+    - [Good books](#good-books)
+  - [Good talks](#good-talks)
+  - [Seriously Good CS Lectures:](#seriously-good-cs-lectures)
+  - [Advice from seniors](#advice-from-seniors)
+
 Ported over from the [original document](https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/edit?usp=sharing).
 
-The mailing list announcement that started it all (23 August 2012): [Link to thread](https://groups.google.com/forum/#!topic/nushackers/G7ASenbqTNU)
+The mailing list announcement that started it all (23 Aug 2012): [Link to thread](https://groups.google.com/forum/#!topic/nushackers/G7ASenbqTNU)
 
 ## Intro
 
@@ -43,6 +66,40 @@ The sites from which the above articles are available are generally good places 
 * [Lambda the Ultimate](http://lambda-the-ultimate.org/) - Group blog that tracks innovations in Programming Languages research
 
 * [Hacker News](http://news.ycombinator.com/) - Hacker News; just about everyone in computing reads it. 
+
+## Internships
+### Advice
+1. [Yang Shun's Technical Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+
+### Sources
+1. [Suyash's Singapore Tech Internship Repo](https://github.com/sushinoya/singapore-tech-internships)
+2. [Elain Zheng's US Tech Internship](https://github.com/elaine-zheng/summer2020internships). While this is for 2020, there will likely be another repo similar to this for 2021.
+
+## Timeline of Opportunities for 2020/21
+Sorted by month.
+
+|Month| Event| Relevant Year | Additional Information|
+|-|-|-|-|
+|Jan| [NUS Hackers Hack-and-Roll](https://hacknroll.nushackers.org/)| All | - |
+|Jan| [Oxford PhD Application Deadline](https://www.graduate.study.cam.ac.uk/courses/directory/cscspdpcs/requirements) | Final Year | - |
+|Jan - Apr| (most) Local Summer Internship Applications| All | - |
+| Jan/ Mar/ Jun/ Sep  | [NUS PhD application deadline](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/#deadline) | Final Year | **Aug Intake**: Jan (intn), Mar (local) <br > **Jan Intake**: Jun (intn), Sep (local) |
+|Mar / Sep| [UROP](https://www.comp.nus.edu.sg/programmes/ug/project/urop/)| 60MCs onwards | Application is for the next academic semester. |
+|Mar / Sep| [FYP](https://www.comp.nus.edu.sg/programmes/ug/project/fyp/)| Final Year | Application is for the next academic semester. |
+| Mar/Sep | [NUS Masters application deadline](https://www.comp.nus.edu.sg/programmes/pg/phdcs/application/#deadline) | Final Year | **Aug Intake**: Mar <br > **Jan Intake**: Sep |
+| Jun | [Cambridge PhD application deadline](https://www.graduate.study.cam.ac.uk/courses/directory/cscspdpcs/requirements) | Final Year | - |
+|Aug| [NUS Team Bumblebee application](https://bumblebee.sg/about/)| Y1 | - | 
+|Aug - Dec | (most) Overseas Summer Internship Applications | All | - |
+|Sep 2020, Jan 2021*| [GRE General Test](https://www.ets.org/gre/revised_general/register/centers_dates) | Y3-Final Year | Based on 2019/2020 dates |
+|Sep/Oct 2020, Apr 2021| [GRE Subject Test](https://www.ets.org/gre/subject/register/centers_dates/) | Y3-Final Year | - |
+|Dec| [CVWO Winter Assignment](https://www.comp.nus.edu.sg/~vwo/) | Y1 | - |
+| (early) Dec - Jan | US MA application Deadline | Final Year | Deadlines of [CMU](https://www.csd.cs.cmu.edu/academics/doctoral/admissions-overview), [Stanford](https://ed.stanford.edu/content/what-application-deadline), [UCB](https://grad.berkeley.edu/programs/list/). |
+| (early) Dec | US PhD application Deadline | Final Year | Deadlines of [CMU](https://www.csd.cs.cmu.edu/academics/doctoral/admissions-overview), [MIT](https://gradadmissions.mit.edu/programs), [Stanford](https://ed.stanford.edu/content/what-application-deadline), [UCB](https://grad.berkeley.edu/programs/list/). The december deadline should generalise to other universities as well according to this [website](https://www.collegexpress.com/articles-and-advice/grad-school/articles/grad-school-applications/essential-one-year-grad-school-application-timeline/).|
+|**Sem 1:** Aug <br > **Sem 2:** TODO| Exchange | Y2 onwards | - |
+|TODO| NoC | TODO | - |
+|TODO| Overseas semester internship application | TODO | - |
+|TODO| Local semester internship application | TODO | - |
+| - | - | - | - |
 
 ## Computer scientists or Programmers that you should know
 
