@@ -342,6 +342,8 @@ Some recently famous; others highly influential.
 
 * [Harvard Commencement Speech](http://www.youtube.com/watch?v=wHGqp8lz36c) by JK Rowling
 
+* [Building a Career in Machine Learning](https://www.youtube.com/watch?v=4kiHsIaK9_w&t=46s) by Dr Andrew Ng
+
 ## Seriously Good CS Lectures:
 
 * [CS Lectures from Stanford](https://see.stanford.edu/course/), and especially:
