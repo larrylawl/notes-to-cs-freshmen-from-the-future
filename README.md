@@ -72,8 +72,9 @@ The sites from which the above articles are available are generally good places 
 1. [Yang Shun's Technical Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 ### Sources
-1. [Suyash's Singapore Tech Internship Repo](https://github.com/sushinoya/singapore-tech-internships)
-2. [Elain Zheng's US Tech Internship](https://github.com/elaine-zheng/summer2020internships). While this is for 2020, there will likely be another repo similar to this for 2021.
+1. [NUS Talent Connect](https://nus-csm.symplicity.com/)
+2. [Suyash's Singapore Tech Internship Repo](https://github.com/sushinoya/singapore-tech-internships)
+3. [Elain Zheng's US Tech Internship](https://github.com/elaine-zheng/summer2020internships). While this is for 2020, there will likely be another repo similar to this for 2021.
 
 ## Timeline of Opportunities for 2020/21
 Sorted by month.
