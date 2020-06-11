@@ -74,7 +74,7 @@ The sites from which the above articles are available are generally good places 
 ### Sources
 1. [NUS Talent Connect](https://nus-csm.symplicity.com/)
 2. [Suyash's Singapore Tech Internship Repo](https://github.com/sushinoya/singapore-tech-internships)
-3. [Elain Zheng's US Tech Internship](https://github.com/elaine-zheng/summer2020internships). While this is for 2020, there will likely be another repo similar to this for 2021.
+3. [Elain Zheng's US Tech Internship](https://github.com/elaine-zheng/summer2020internships). While this is for 2019, there will likely be another repo similar to this for 2021. 
 4. TODO: Data Science Internships
 5. TODO: Research Internships
 
@@ -99,9 +99,9 @@ Sorted by month.
 | (early) Dec - Jan | US MA application Deadline | Final Year | Deadlines of [CMU](https://www.csd.cs.cmu.edu/academics/doctoral/admissions-overview), [Stanford](https://ed.stanford.edu/content/what-application-deadline), [UCB](https://grad.berkeley.edu/programs/list/). |
 | (early) Dec | US PhD application Deadline | Final Year | Deadlines of [CMU](https://www.csd.cs.cmu.edu/academics/doctoral/admissions-overview), [MIT](https://gradadmissions.mit.edu/programs), [Stanford](https://ed.stanford.edu/content/what-application-deadline), [UCB](https://grad.berkeley.edu/programs/list/). The december deadline should generalise to other universities as well according to this [website](https://www.collegexpress.com/articles-and-advice/grad-school/articles/grad-school-applications/essential-one-year-grad-school-application-timeline/).|
 |**Sem 1:** Aug <br > **Sem 2:** TODO| Exchange | Y2 onwards | - |
+|M-[6, 9]| Overseas *semester* internship application | All | Number of overseas *semester* internship openings is significantly lesser than *summer* internships. Referrals work best. Otherwise, check hiring page as there might not be a compiled list.  |
+|Flexible| Local semester internship application | All | Number of overseas *semester* internship openings is significantly lesser than *summer* internships |
 |TODO| NoC | TODO | - |
-|TODO| Overseas semester internship application | TODO | - |
-|TODO| Local semester internship application | TODO | - |
 | - | - | - | - |
 
 ## Computer scientists or Programmers that you should know
